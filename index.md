@@ -74,7 +74,7 @@ N/A
 <div style="clear: both;"></div>
 <div style="float: left; margin: 10px">
 <a href="https://alexbovet.github.io/">
-  <img src="images/bovet.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="images/bovet.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alexbovet.github.io/"><b>Alexandre Bovet</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Zurich</p></span>
