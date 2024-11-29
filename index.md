@@ -56,7 +56,6 @@ N/A
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
 </div>
 <div style="clear: both;"></div>
-<div style="clear: both;"></div> 
 <div style="float: left; margin: 10px">
 <a href="https://pages.di.unipi.it/citraro/">
   <img src="images/Citraro.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -71,7 +70,7 @@ N/A
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://cazabetremy.fr/"><b>Rémy Cazabet</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Unversity of Lyon 1</p></span>
 </div>
-<div style="clear: both;"></div>
+
 <div style="float: left; margin: 10px">
 <a href="https://alexbovet.github.io/">
   <img src="images/bovet.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
