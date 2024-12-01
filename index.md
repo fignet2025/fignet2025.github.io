@@ -39,6 +39,10 @@ N/A
 
 
 
+<div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
+<div style="width: 100%; text-align: center"> 
+<b>Workshop Program Chairs</b>
+</div>  
 <div style="width: 100%; text-align: center"> 
 <b>General chairs</b>
 </div> 
@@ -81,8 +85,3 @@ N/A
 </div>
 <div style="clear: both;"></div> 
 </div>
-
-
-
-
-
