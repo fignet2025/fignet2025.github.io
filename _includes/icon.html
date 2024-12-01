@@ -1,13 +1,15 @@
 {%- comment -%}
-
     Add inlined Bootstrap Icon SVG, https://icons.getbootstrap.com/
     Icon will match size and color of font it is inline with.
     Options: 
     - "icon" = matching name of Bootstrap Icon (without .svg), required. If you provide an icon name that doesn't match an icon, you will get a Liquid error!
+    - "width" = width of the icon, optional.
+    - "height" = height of the icon, optional.
 
     Note: this include provides a bit of a hack to include svg in the Markdown content with out messing up the paragraphs, so should be work in any Markdown.
-
 {%- endcomment -%}
 {% capture icon %}bootstrap-icons/{{ include.icon }}.svg{%- endcapture -%}
 {% capture markup %}{% include {{ icon }} %}{%- endcapture -%}
-{{ markup | normalize_whitespace }}
+{% assign width = include.width | default: '1em' %}
+{% assign height = include.height | default: '1em' %}
+{{ markup | replace: '<svg', '<svg width="' | append: width | append: '" height="' | append: height | append: '"' | normalize_whitespace }}
