@@ -15,14 +15,14 @@ title: Fig-Net Satellite
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: "images/Fig-net Logo.png"
+title-icon: "/images/Fig-net Logo.png"
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "Website for the Fig-Net Satellite on Fine-Grained Temporal Networks at NetSci 2025"
 keywords: "network science, workshop, networks, dynamics, temporal networks, time-varying networks"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
-featured-image: "/images/uidaho-workshop.jpg"
+featured-image: "/images/Fig-net Logo.png"
 # add search box to footer? true/false
 search: false
 
