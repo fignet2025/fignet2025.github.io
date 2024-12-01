@@ -2,24 +2,23 @@
 title: Submissions
 nav: true
 ---
-### What and How to Submit
-HyperSCI accepts several types of submissions for review, including:
+### Call for Abstracts
+Fignet accepts abstracts related to:
+- new empirical work
+- recently published papers
+- under review (e.g. arXiv preprints)
+- works in progress
 
-- *Full papers* (max 8 pages)
-- *Short papers* (max 5 pages)
-- *Extended Abstract* (max 2 pages)
 
 ### Submission Guidelines
-Authors are invited to submit original research papers which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop. Extended abstracts may present work that can be already published, in preparation for publication elsewhere, or ongoing research.
 
-Paper submissions (full, short, and abstract) must use the [IEEE 2-column template](https://www.ieee.org/conferences/publishing/templates.html), including bibliography and appendices. Submissions should include the title, author(s), affiliation(s), e-mail address(es), tel/fax numbers, abstract, and postal address(es) on the first page. 
+We accept submissions of at most three pages (including references and images), in PDF format. Submissions should include the title, author(s), affiliation(s), and e-mail address(es) on the first page. 
 
-The review process follows the guidelines of the [main conference](https://asonam.cpsc.ucalgary.ca/2024/CFP.php). At least two reviewers will evaluate submissions on the basis of relevance, technical quality, potential impact, and clarity.
-To submit a paper, please use the following web portal.
+Accepted works will be selected by the program committee according to adherence to the workshop theme, clarity and scientific quality. 
 
-{% include button.html text="Submit via EasyChair" link="https://easychair.org/conferences/?conf=hypersci2024" color="danger" %}
+Presenters of accepted contributions must register for NetSci2025. Note that NetSci enforces a mutual exclusivity policy, meaning works cannot be submitted both to the main conference and this satellite.
 
-### Publication
-All accepted workshop papers will be published in the dedicated proceedings offered by CEUR Workshop Proceedings.
+Please send your contribution via EasyChair below.
 
-HyperSCI Co-Chairs are also open to the possibility of publishing a **special issue of a journal** for the best papers of the workshop.
+{% include button.html text="Submit via EasyChair" link="https://easychair.org/conferences/?conf=fignet2025" color="danger" %}
+
