@@ -9,6 +9,10 @@ layout: page
 <sup>2-3 June, 2025</sup><br>
 <sup>Maastricht, the Netherlands</sup>
 
+<div style="width: 100%; text-align: center;">
+  <img src="images/Fig-net Logo.png" alt="Fig-Net Logo" style="width: 200px; height: auto;">
+</div>
+
 Temporal networks have emerged as a crucial framework for studying dynamic systems, with applications in sociology, biology, and communication networks. With advancements in data collection technologies enabling increasingly precise and frequent observations, there is a growing need for methodologies capable of analyzing fine-grained temporal networks.
 
 These networks are represented as datasets capturing interactions — whether instantaneous or time-extended - with high-resolution timestamps. However, research on fine-grained temporal networks remains limited, leaving many aspects unexplored. Fine-grained temporal networks are not merely traditional temporal networks observed at their fastest resolution. They represent a fundamental shift; with their extreme sparsity, traditional tensor-based approaches are ineffective, and static network representations become unobservable at any specific time. Fundamental concepts like node degrees, communities, clustering coefficients, and centralities must be redefined within this framework. What sets fine-grained temporal networks apart is their ability to uniquely preserve sequences of interactions and inter-event time windows, crucial for understanding causality and temporal dependencies. Traditional methods often aggregate this data into snapshots using arbitrarily chosen time windows, losing critical temporal details. Scalability presents another significant challenge due to the computational intensity of analyzing high-resolution datasets. Innovative methodologies are required to address these theoretical and computational challenges and enable deeper insights into the dynamics of temporal systems.
@@ -31,6 +35,8 @@ Relevant submissions cover one or more of the following topics:
 - Event detection
 - Higher-order interactional data
 - Heterogeneous temporal networks
+
+
 Studies that combine complexity and temporal networks that do not fall within the above are also welcome!
 
 
@@ -39,7 +45,7 @@ N/A
 
 <div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
   <div style="width: 100%; text-align: center"> 
-    <b>Workshop Program Chairs</b>
+    <b>Satellite Chairs</b>
   </div>  
   <div style="display: flex; justify-content: center; width: 100%;">
     <div style="margin: 10px">
