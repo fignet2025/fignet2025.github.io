@@ -37,10 +37,17 @@ Studies that combine complexity and temporal networks that do not fall within th
 ## Important Dates
 N/A
 
-<div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
+
+
+
+
+
+
+
+
 <div style="width: 100%; text-align: center"> 
-<b>Satellite Chairs</b>
-</div>  
+<b>General chairs</b>
+</div> 
 <div style="float: left; margin: 10px">
 <a href="https://www.yasasgari.com/">
   <img src="images/asgari.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -56,7 +63,7 @@ N/A
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Pisa</p></span>
 </div>
 <div style="clear: both;"></div>
-<div style="float: left; margin: 10px">
+<div style="float: left; margin: 10px">>
 <a href="https://pages.di.unipi.it/citraro/">
   <img src="images/Citraro.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
@@ -70,6 +77,7 @@ N/A
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://cazabetremy.fr/"><b>Rémy Cazabet</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Unversity of Lyon 1</p></span>
 </div>
+<div style="clear: both;"></div>
 <div style="float: left; margin: 10px">
 <a href="https://alexbovet.github.io/">
   <img src="images/bovet.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -77,4 +85,6 @@ N/A
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alexbovet.github.io/"><b>Alexandre Bovet</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>University of Zurich</p></span>
 </div>
+</div>
+<div style="clear: both;"></div> 
 </div>
