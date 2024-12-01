@@ -16,7 +16,7 @@ Here is the final schedule for the workshop.
 | 10:30 - 10:45 | Contributed Talk 1 (12+3)       |
 | 10:45 - 11:00 | Contributed Talk 2 (12+3)       |
 | 11:00 - 11:30 | Coffee Break & Poster Session   |
-| 11:30 - 12:10 | Keynote Speaker: Farimah Poursafai |
+| 11:30 - 12:10 | Invited Speaker: Farimah Poursafai |
 | 12:10 - 12:25 | Contributed Talk 3 (12+3)       |
 | 12:25 - 12:40 | Contributed Talk 4 (12+3)       |
 | 12:40 - 12:55 | Contributed Talk 5 (12+3)       |
@@ -25,8 +25,7 @@ Here is the final schedule for the workshop.
 
 ---
 
-### Keynote Speakers 
-
+### Speakers 
 
 #### Marton Karsai
 
