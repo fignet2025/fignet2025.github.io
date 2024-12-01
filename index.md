@@ -10,7 +10,7 @@ layout: page
 <sup>Maastricht, the Netherlands</sup>
 
 <div style="width: 100%; text-align: center;">
-  <img src="images/Fig-net Logo.png" alt="Fig-Net Logo" style="width: 200px; height: auto;">
+  <img src="images/Fig-net Logo.png" alt="Fig-Net Logo">
 </div>
 
 Temporal networks have emerged as a crucial framework for studying dynamic systems, with applications in sociology, biology, and communication networks. With advancements in data collection technologies enabling increasingly precise and frequent observations, there is a growing need for methodologies capable of analyzing fine-grained temporal networks.
