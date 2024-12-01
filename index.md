@@ -80,5 +80,3 @@ N/A
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alexbovet.github.io/"><b>Alexandre Bovet</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Unviersity of Zurich</p></span>
 </div>
-<div style="clear: both;"></div> 
-</div>
