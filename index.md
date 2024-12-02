@@ -8,8 +8,12 @@ layout: page
 <sup>[@ International School and Conference on Network Science (NetSci)](https://netsci2025.github.io/)</sup><br>
 <sup>2-3 June, 2025</sup><br>
 <sup>Maastricht, the Netherlands</sup>
+{% include alert.html text="This website hosts a satellite proposal for NetSci 2025, currently under review by the conference organizers. Updates may follow." align="left" color="danger" %}
+
 
 {% include figure.html img="Fig-net Logo.png" alt="intro image here" width="75%" %}
+
+
 
 Temporal networks have emerged as a crucial framework for studying dynamic systems, with applications in sociology, biology, and communication networks. With advancements in data collection technologies enabling increasingly precise and frequent observations, there is a growing need for methodologies capable of analyzing fine-grained temporal networks.
 
@@ -39,7 +43,7 @@ Studies that combine complexity and temporal networks that do not fall within th
 
 
 ## Important Dates
-N/A
+TBA
 
 <div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
   <div style="width: 100%; text-align: center"> 
