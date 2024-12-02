@@ -1,4 +1,0 @@
----
-title: Committee
-nav: Committee
----
